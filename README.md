@@ -8,8 +8,8 @@
 
 # Project Objectives
 # Customer Performance Report:
-  ** ▶ Analyze customer sales data to identify top-performing customers and trends.**
-  ** ▶Provide insights on customer behavior and purchasing patterns.
+** ▶ Analyze customer sales data to identify top-performing customers and trends.
+** ▶Provide insights on customer behavior and purchasing patterns.
       
 # Market Performance and Sales Targets:
   ** ▶Compare actual market performance with sales targets.
