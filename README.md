@@ -1,5 +1,5 @@
-# Excel-sales-analytics
-# Sales Analytics Project
+# Excel
+# Sales-Analytics-Project
 # Overview
   This project involves an in-depth analysis of sales data to provide actionable insights and strategic recommendations. 
   The primary focus is on evaluating customer performance by REGION, MARKET DIVISION,
@@ -8,30 +8,37 @@
 
 # Project Objectives
 # Customer Performance Report:
-** ▶ Analyze customer sales data to identify top-performing customers and trends.
-** ▶Provide insights on customer behavior and purchasing patterns.
+## Analyze customer sales data to identify top-performing customers and trends for each year.
+## used conditional formating to show lowest and highest net sales value.
+## we have 21 vs 20% column by that we can visualize comparison of both year.
+## Provide insights on customer behavior and purchasing patterns.
       
 # Market Performance and Sales Targets:
-  ** ▶Compare actual market performance with sales targets.
-  ** ▶Identify gaps and opportunities for improvement in different markets.
+  ## Compare actual market performance with sales targets.
+  ## report has country level sales for each year and we can compare the current year sales with target sales and can see the %diffrence of actual vs targrt 
+  ## we can filter the report on the basis of region and division.
+  ## Identify gaps and opportunities for improvement in different markets.
   
  # Financial Reports:
-  ** ▶Generate Profit and Loss (P&L) reports by fiscal year and months.
-  ** ▶Create P&L reports segmented by markets to assess regional performance.
+  ## Generate Profit and Loss (P&L) reports by fiscal year and months 
+  ## where we can see net_sales,COGS, gross_margin, gross margine% for each year and further. 
+  ## we can break down it into months and can see the p & l for each month.
+  ## we can apply filter market, region, division, customer.
+  ## Create P&L reports segmented by markets to assess regional performance.
     
 # Purpose and Importance
 
  # Purpose of Sales Analytics
-  ** ▶Empower businesses to monitor and evaluate their sales activities.
-  ** ▶Enhance decision-making by providing data-driven insights.
-  ** ▶Importance of Analyzing Sales Data
-  ** ▶Identify sales patterns and trends.
-  ** ▶Track key performance indicators (KPIs) to measure success.
-  ** ▶Inform strategic planning and resource allocation.
+  ## ▶Empower businesses to monitor and evaluate their sales activities.
+  ## ▶Enhance decision-making by providing data-driven insights.
+  ## ▶Importance of Analyzing Sales Data
+  ## ▶Identify sales patterns and trends.
+  ## ▶Track key performance indicators (KPIs) to measure success.
+  ## ▶Inform strategic planning and resource allocation.
 # Role of Reports
- ** ▶Assist in determining effective customer discounts.
- ** ▶Facilitate negotiations with customers based on data insights.
- ** ▶Identify potential business expansion opportunities in high-potential regions.
+ ## ▶Assist in determining effective customer discounts.
+ ## ▶Facilitate negotiations with customers based on data insights.
+ ## ▶Identify potential business expansion opportunities in high-potential regions.
 
 # Skills Utilized
 # Technical Skills
@@ -45,12 +52,11 @@
     ** ▶Communication: Designing user-friendly reports that effectively communicate findings.
     ** ▶Problem-Solving: Developing systematic approaches to tackle complex data challenges.**
       Reports
-# ✅Customer Performance Report: [https://github.com/Iffat60/Excel-sales-analytics/blob/main/Customer%20Performance%20Report.pdf]
-# ✅Market Performance and Sales Targets Report: [https://github.com/Iffat60/Excel-sales-analytics/blob/main/Market%20Performance%20vs%20Target%20Report.pdf]
-# ✅Profit and Loss Reports:
-  # ✅By Fiscal Year: View:[https://github.com/Iffat60/Excel-sales-analytics/blob/main/P%26L%20Statement%20by%20Fiscal%20Year.pdf]
-  # ✅By Months: View Report:[https://github.com/Iffat60/Excel-sales-analytics/blob/main/P%26L%20Statement%20by%20Months.pdf]
-  # ✅By Markets: View Report: [https://github.com/Iffat60/Excel-sales-analytics/blob/main/P%26L%20Statement%20by%20Markets.pdf]
+## ✅Market Performance and Sales Targets Report: [https://github.com/Iffat60/Excel-sales-analytics/blob/main/Market%20Performance%20vs%20Target%20Report.pdf]
+## ✅Profit and Loss Reports:
+## ✅By Fiscal Year: View:[https://github.com/Iffat60/Excel-sales-analytics/blob/main/P%26L%20Statement%20by%20Fiscal%20Year.pdf]
+## ✅By Months: View Report:[https://github.com/Iffat60/Excel-sales-analytics/blob/main/P%26L%20Statement%20by%20Months.pdf]
+## ✅By Markets: View Report: [https://github.com/Iffat60/Excel-sales-analytics/blob/main/P%26L%20Statement%20by%20Markets.pdf]
 
 
 # Conclusion
