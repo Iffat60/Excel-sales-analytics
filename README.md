@@ -8,16 +8,16 @@
 
 # Project Objectives
 # Customer Performance Report:
-   ** ▶ Analyze customer sales data to identify top-performing customers and trends.
-   ** ▶Provide insights on customer behavior and purchasing patterns.
+  ** ▶ Analyze customer sales data to identify top-performing customers and trends.
+  ** ▶Provide insights on customer behavior and purchasing patterns.
       
 # Market Performance and Sales Targets:
-   ** ▶Compare actual market performance with sales targets.
-   ** ▶Identify gaps and opportunities for improvement in different markets.
+  ** ▶Compare actual market performance with sales targets.
+  ** ▶Identify gaps and opportunities for improvement in different markets.
   
  # Financial Reports:
-    ** ▶Generate Profit and Loss (P&L) reports by fiscal year and months.
-    ** ▶Create P&L reports segmented by markets to assess regional performance.
+  ** ▶Generate Profit and Loss (P&L) reports by fiscal year and months.
+  ** ▶Create P&L reports segmented by markets to assess regional performance.
     
 # Purpose and Importance
 
