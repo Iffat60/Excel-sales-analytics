@@ -1,5 +1,7 @@
 # Excel
 # Sales-Analytics-Project
+
+![P & L of market](P&L Statement by Markets.pdf)
 # Overview
   This project involves an in-depth analysis of sales data to provide actionable insights and strategic recommendations. 
   The primary focus is on evaluating customer performance by REGION, MARKET DIVISION,
