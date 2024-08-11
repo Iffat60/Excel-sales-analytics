@@ -1,7 +1,6 @@
 # Excel
 # Sales-Analytics-Project
 
-[P & L of market](P&L Statement by Markets.pdf)
 # Overview
   This project involves an in-depth analysis of sales data to provide actionable insights and strategic recommendations. 
   The primary focus is on evaluating customer performance by REGION, MARKET DIVISION,
@@ -54,11 +53,11 @@
     ** ▶Communication: Designing user-friendly reports that effectively communicate findings.
     ** ▶Problem-Solving: Developing systematic approaches to tackle complex data challenges.**
       Reports
-## ✅Market Performance and Sales Targets Report: [https://github.com/Iffat60/Excel-sales-analytics/blob/main/Market%20Performance%20vs%20Target%20Report.pdf]
+## ✅(Market Performance and Sales Targets Report)[https://github.com/Iffat60/Excel-sales-analytics/blob/main/Market%20Performance%20vs%20Target%20Report.pdf]
 ## ✅Profit and Loss Reports:
-## ✅By Fiscal Year: View:[https://github.com/Iffat60/Excel-sales-analytics/blob/main/P%26L%20Statement%20by%20Fiscal%20Year.pdf]
-## ✅By Months: View Report:[https://github.com/Iffat60/Excel-sales-analytics/blob/main/P%26L%20Statement%20by%20Months.pdf]
-## ✅By Markets: View Report: [https://github.com/Iffat60/Excel-sales-analytics/blob/main/P%26L%20Statement%20by%20Markets.pdf]
+## ✅(By Fiscal Year: View)[https://github.com/Iffat60/Excel-sales-analytics/blob/main/P%26L%20Statement%20by%20Fiscal%20Year.pdf]
+## ✅(By Months: View Report)[https://github.com/Iffat60/Excel-sales-analytics/blob/main/P%26L%20Statement%20by%20Months.pdf]
+## ✅(By Markets: View Report)[https://github.com/Iffat60/Excel-sales-analytics/blob/main/P%26L%20Statement%20by%20Markets.pdf]
 
 
 # Conclusion
