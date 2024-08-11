@@ -1,6 +1,6 @@
 # Excel
 # Sales-Analytics-Project
-
+## ✅[Customer performance](https://github.com/Iffat60/Excel-sales-analytics/blob/main/Customer%20Performance%20Report.pdf)
 ## ✅[Market Performance and Sales Targets Report](https://github.com/Iffat60/Excel-sales-analytics/blob/main/Market%20Performance%20vs%20Target%20Report.pdf)
 ## ✅Profit and Loss Reports:
 ## ✅[By Fiscal Year: View](https://github.com/Iffat60/Excel-sales-analytics/blob/main/P%26L%20Statement%20by%20Fiscal%20Year.pdf)
